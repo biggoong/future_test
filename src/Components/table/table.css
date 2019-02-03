@@ -1,0 +1,16 @@
+table {
+    margin: 15px auto;
+    border: 1px darkslategray solid;
+    box-shadow: 5px 5px slategrey;
+    border-radius: 10px;
+}
+
+tr, th, td {
+    padding: 10px;
+    border-bottom: 1px darkslategray solid;
+    
+}
+
+th {
+    color: darkslategray;
+}

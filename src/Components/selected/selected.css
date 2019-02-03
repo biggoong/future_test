@@ -1,0 +1,14 @@
+hr {
+    width: 500px;
+    height: 3px;
+    background-color: darkslategray;
+}
+
+.selected{
+    margin: 10px auto;
+    padding: 5px;
+}
+
+.selected ul{
+    list-style: none;
+}
